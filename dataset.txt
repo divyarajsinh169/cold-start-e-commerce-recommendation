@@ -4,7 +4,7 @@ Link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Be
 
 Dataset-2
 Name: Amazon Product Reviews — Clothing, Shoes and Jewelry (Small Subset)
-  Link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Clothing_Shoes_and_Jewelry_5.json.gz
+Link: http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Clothing_Shoes_and_Jewelry_5.json.gz
 
 Dataset-3
 Name: Epinions Consumer Reviews Dataset
